@@ -1,9 +1,11 @@
 #include <stdio.h>
+#include <unistd.h>
 
 /**
- * main - Entry point of any C program by javapoint
- *
- * Return: returns 1 which indicate failure
+ *main - entry proint of any c progrma
+ * 
+ * 
+ *Return: Always 0 (Success)
  */
 int main(void)
 {
