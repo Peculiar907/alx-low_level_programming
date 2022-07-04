@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - Entry point
- *Return: Always 0 (Success)
+ * main - Entry point
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -12,11 +12,10 @@ int main(void)
 	{
 		if (smallAlpha != 'q' && smallAlpha != 'e')
 		{
-			putchar(smallAlpha);
+		putchar(smallAlpha);
 		}
 	}
-
 	putchar(10);
 
 	return (0);
-}	
+}
