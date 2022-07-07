@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	int a, b = 612852475143;
+	unsigned long int a, b = 612852475143;
 
 	for (a = 3; a < 782849; a = a + 2)
 	{
